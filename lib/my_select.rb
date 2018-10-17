@@ -12,4 +12,4 @@ def my_select(collection)
   out
 end
 
-my_select([1,2,3,4])do |num| puts i end
+my_select([1,2,3,4])do |num| puts num end
